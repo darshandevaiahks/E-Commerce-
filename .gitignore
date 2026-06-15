@@ -1,0 +1,24 @@
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Maven
+target/
+
+# Tomcat / Server runtime
+Servers/
+*.log
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images (optional � if you don't want to upload placeholder images)
+ src/main/webapp/images/*
+ !src/main/webapp/images/default-avatar.png
